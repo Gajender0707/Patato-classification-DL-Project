@@ -1,0 +1,6 @@
+setup.py
+Patato_disease_classification_deep_learning_project.egg-info/PKG-INFO
+Patato_disease_classification_deep_learning_project.egg-info/SOURCES.txt
+Patato_disease_classification_deep_learning_project.egg-info/dependency_links.txt
+Patato_disease_classification_deep_learning_project.egg-info/requires.txt
+Patato_disease_classification_deep_learning_project.egg-info/top_level.txt
