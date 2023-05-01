@@ -1,5 +1,7 @@
-# tensorflow
-# keras
-# scikit-learn
+tensorflow
+keras
+scikit-learn
 pandas
--e .
+matplotlib
+numpy
+# -e .

@@ -7,6 +7,7 @@ def Requirements(filename):
         req=[i.replace("\n","") for i in req]
         if hyphen in req:
             req.remove(hyphen)
+            f.close()
     return req
 
 
